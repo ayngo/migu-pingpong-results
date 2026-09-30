@@ -1,0 +1,5 @@
+# Local isolated diagnostic environment only; do not apply to competition image.
+numpy==1.26.4
+onnx==1.16.2
+onnxruntime==1.18.1
+opencv-python-headless==4.10.0.84
